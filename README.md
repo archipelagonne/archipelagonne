@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://api.visitorbadge.io/api/visitors?path=archipelagonne&label=arrows&labelColor=%231f1d22&countColor=%2349172d&style=flat-square">
-
+<p align="center">
+<img src="https://file.garden/aOWSpRjTKyHZp9BV/tumblr_aa95a15f8d8bee278e0c56e4e8cdd0fd_b424fb9c_250.webp">
 
 <p align="center">
   <sub>$\color{#B72B47}{ㅤㅤJai}$</sub> 
