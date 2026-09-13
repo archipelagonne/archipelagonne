@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=archipelagonne&label=arrows&labelColor=%231f1d22&countColor=%2349172d&style=flat-square">
 
-<!--
-**archipelagonne/archipelagonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <sub>$\color{#B72B47}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤJai}$</sub>
+  <sub>$\color{#B72B47}{ㅤ.ㅤㅤㅤㅤhe/him}$</sub>
+  <p align="left">
+   <sub>$\color{#B72B47}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ18ㅤ.ㅤ Serbian}$</sub>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ <a href="https://jainatriu.atabook.org/">atabook</a>
+ <a href="https://github.com/freakedoutboy">main account</a>
