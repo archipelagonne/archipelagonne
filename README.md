@@ -4,7 +4,7 @@
 <img src="https://file.garden/aOWSpRjTKyHZp9BV/tumblr_aa95a15f8d8bee278e0c56e4e8cdd0fd_b424fb9c_250.webp">
 
 <p align="center">
-  <sub>$\color{#B72B47}{ㅤㅤJai}$</sub> 
+  <sub>$\color{#B72B47}{ㅤㅤJaiㅤ/ㅤRocky}$</sub> 
   
 <img src="https://files.catbox.moe/yaemht.gif">
   <sub>$\color{#B72B47}{ㅤ.ㅤㅤㅤㅤhe/him}$</sub>
