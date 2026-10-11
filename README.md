@@ -18,3 +18,5 @@
 <p align="center">
  <a href="https://jainatriu.atabook.org/">atabook</a>
  <a href="https://github.com/freakedoutboy">main account</a>
+<p align="center">
+<img src="https://github.com/archipelagonne/archipelagonne/blob/main/assets/Untitled22_20261011045002.png" width="30%">
